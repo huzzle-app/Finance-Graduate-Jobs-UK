@@ -1,10 +1,8 @@
-# 2024 Graduate Jobs with Visa Sponsorship by Huzzle
+# 2024 Finance Graduate Jobs by Huzzle
 
-Struggling to find visa-sponsored graduate roles? 
+Use this repo to find 100+ finance graduate jobs that are still accepting applications 🏦
 
-Use this repo to find **300+ live graduate roles** from companies that **sponsor** **visas**! 🇩🇪🇩🇰🇨🇴🇨🇿🇬🇷🇪🇹🇭🇷🇨🇺🇭🇺🇮🇹🇱🇺🇲🇼🇮🇪🇮🇱🇳🇪🇷🇺🇸🇰🇸🇮🇪🇸🇿🇦🇰🇷🇸🇸🇬🇧🇺🇸🇪🇭🇺🇦🇨🇭🇸🇪🇸🇰🇵🇹🇵🇱🇵🇰🇳🇬🇮🇳🇬🇭🇪🇺🇧🇬🇨🇦🇻🇬🇦🇷🇩🇿🇦🇺
-
-⚠️ Please note that this repository is exclusively for graduate jobs with Visa Sponsorship in the United Kingdom 🇬🇧
+⚠️ Please note that this repository is exclusively for finance graduate jobs in the United Kingdom 🇬🇧
 
 
 -----
