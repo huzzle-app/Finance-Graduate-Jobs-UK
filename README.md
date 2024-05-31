@@ -1,4 +1,4 @@
-# 2024 Finance Graduate Jobs by Huzzle
+# Finance Graduate Jobs by Huzzle
 
 Use this repo to find 100+ finance graduate jobs that are still accepting applications 🏦
 
